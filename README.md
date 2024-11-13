@@ -1,5 +1,21 @@
 # Walmart-Store-Sales-Forecasting
 
+Data analysis and machine learning solution in Python for the Kaggle competition [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/overview).
+
+## How to run
+
+1. install dependencies using ['requirements.txt'](./requirements.txt)
+2. run `part1_analysis_and_preprocessing.ipynb` for data analysis and preprocessing.
+3. run `part2_training_and_evaluation.ipynb` for model training and evaluation.
+
+## Dataset
+
+Find dataset description and original dataset from [here](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data). Find processed dataset from [here](https://github.com/NZMSA/2024-Phase-2/tree/main/data-science/0.%20Resources/datasets).
+
+- `sales.csv`: Sales data and time info – the backbone of your predictions.
+- `features.csv`: Detailed store information to enrich your model.
+- `stores.csv`: Extra store-related info to give your predictions an edge.
+
 ## Part 1 Analysis and Preprocessing
 
 ### 1. Fina all variables

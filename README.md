@@ -37,7 +37,7 @@ Find dataset description and original dataset from [here](https://www.kaggle.com
   - `Dept_num`: departments quantity of a store may affects sales.
   - `Size_per_dept`: average size of departments of a store may affects sales.
 
-### 4. EDA with Visulization with Power BI
+### 4. EDA with Visualization with Power BI
 - Use pie charts to visualize the proportion of each Type, Year, Month, and IsHoliday.
     - the distribution of Year and Month are balanced
     - the distribution of Type and IsHoliday is not balanced, which may affect the model performance.
@@ -64,8 +64,8 @@ Find dataset description and original dataset from [here](https://www.kaggle.com
 - Compare MAE, MAPE, RMSE, R2 metrics.
   - Performance of KNN and RandomForest are similar and they are vey higher than LinearRegresiion
 
-### 4. Emsemble Learning
-- Use KNN and RandomForest to build a VotingRegressor which has a better Performance.
+### 4. Ensemble Learning
+- Use KNN and RandomForest to build a VotingRegressor which has a better performance.
 
 ### 5. Visualize predicted data
 - Using all columns to train have a better curve fitting
